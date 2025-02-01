@@ -1,15 +1,13 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opdsbanasya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opdsbanasya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opdsbanasya&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
-</div>
+<h1 align="center">Hi 👋, I'm Dharm Singh Saini</h1>
+<h3 align="center">A passionate frontend developer from Jaipur</h3>
 
-###
+- 🌱 I’m currently learning **MERN**
 
-<p align="left">Tech & Tools</p>
+- 💬 Ask me about **React**
 
-###
+- 📫 How to reach me **opdsbanasya@gmail.com**
 
+<h3 align="left">Tech & Tools</h3>
 <div align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030115.png?f=webp&w=256" height="40" alt="html logo"  />
   <img width="12" />
@@ -32,12 +30,8 @@
 
 ###
 
-<p align="left">Social</p>
-
-###
-
+<h3 align="left">Connect with me:</h3>
 <div align="left"">
- 
   <a href="https://www.linkedin.com/in/dharm-singh-saini/" target="_black">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -54,4 +48,12 @@
   <a href="mailto:opdsbanasya@gmail.com" target="_black">
       <img src="https://www.svgrepo.com/show/452213/gmail.svg" height="40" alt="youtube logo" style="object-fit:cover"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=opdsbanasya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opdsbanasya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opdsbanasya&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
