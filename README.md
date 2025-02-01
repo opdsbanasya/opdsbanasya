@@ -6,20 +6,28 @@
 
 ###
 
-<p align="left">Tech</p>
+<p align="left">Tech & Tools</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030115.png?f=webp&w=256" height="40" alt="javascript logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030115.png?f=webp&w=256" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-722685.png?f=webp&w=256" height="40" alt="typescript logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-722685.png?f=webp&w=256" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284965.png?f=webp&w=256" height="40" alt="react logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284965.png?f=webp&w=256" height="40" alt="js logo"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226053.png?f=webp&w=256" height="40" alt="jest logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226053.png?f=webp&w=256" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-redux-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-10-pack-icons-283024.png?f=webp&w=256" height="40" alt="storybook logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-redux-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-10-pack-icons-283024.png?f=webp&w=256" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-firebase-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2944871.png?f=webp&w=256" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-git-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175218.png?f=webp&w=256" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/fbad9f3c-e847-487f-b7e6-71ae043833f9" alt="github logo" style="width:40px"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226082.png?f=webp&w=256" height="40" alt="c++ logo"  />
 </div>
 
 ###
@@ -28,9 +36,22 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<div align="left"">
+ 
+  <a href="https://www.linkedin.com/in/dharm-singh-saini/" target="_black">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/opds_banasya" target="_black">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/oyee_dharm/" target="_black">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://youtube.com/@opdsbanasya?si=M8dHCgRKeoTW4byf" target="_black">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  
+  <a href="mailto:opdsbanasya@gmail.com" target="_black">
+      <img src="https://www.svgrepo.com/show/452213/gmail.svg" height="40" alt="youtube logo" style="object-fit:cover"  />
+  </a>
 </div>
