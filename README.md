@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **opdsbanasya@gmail.com**
+- 📫 How to reach me <a href="mailto:opdsbanasya@gmail.com">**opdsbanasya@gmail.com**</a>
 
 <h3 align="left">Tech & Tools</h3>
 <div align="left">
