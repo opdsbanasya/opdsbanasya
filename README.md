@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharm Singh Saini</h1>
-<h3 align="center">A passionate frontend developer from Jaipur</h3>
+<h3 align="center">A passionate Web developer from Jaipur</h3>
 
 - 🌱 I’m currently learning **MERN**
 
