@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharm Singh Saini</h1>
-<h3 align="center">A passionate Web developer from Jaipur</h3>
+<h3 align="center">A passionate Web developer 🧑‍💻 from Jaipur 🚀</h3>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-git-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175218.png?f=webp&w=256" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/fbad9f3c-e847-487f-b7e6-71ae043833f9" alt="github logo" style="width:40px"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-jest-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2945020.png?f=webp&w=256" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226082.png?f=webp&w=256" height="40" alt="c++ logo"  />
 </div>
