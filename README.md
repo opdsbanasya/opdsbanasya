@@ -30,7 +30,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226082.png?f=webp&w=256" height="40" alt="c++ logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">Connect with me:</h3>
 <div align="left"">
@@ -52,7 +52,7 @@
   </a>
 </div>
 
-###
+---
 
 <div align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opdsbanasya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
