@@ -33,7 +33,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<div align="left"">
+
   <a href="https://www.linkedin.com/in/dharm-singh-saini/" target="_black">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -50,7 +50,6 @@
   <a href="mailto:opdsbanasya@gmail.com" target="_black">
       <img src="https://www.svgrepo.com/show/452213/gmail.svg" height="40" alt="youtube logo" style="object-fit:cover"  />
   </a>
-</div>
 
 ---
 
