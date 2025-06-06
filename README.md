@@ -1,11 +1,26 @@
-<h1 align="center">Hi 👋, I'm Dharm Singh Saini</h1>
-<h3 align="center">A passionate Web developer 🧑‍💻 from Jaipur 🚀</h3>
+<h1 align="center">Hi there 👋, I'm Dharm Singh Saini</h1>
+<h3 align="center">🚀 A Passionate Full Stack Web Developer from Jaipur, India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **MERN**
+<p align="center">
+  I'm an enthusiastic web developer who loves to build interactive and user-friendly web applications. My journey into tech began with curiosity and a strong desire to turn ideas into digital experiences. I believe in continuous learning and growing with the ever-evolving world of web development.
+</p>
 
-- 💬 Ask me about **React**
+---
 
-- 📫 How to reach me <a href="mailto:opdsbanasya@gmail.com">**opdsbanasya@gmail.com**</a>
+- 🌱 I’m currently deep diving into the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) to sharpen my skills as a full-stack developer.
+- 💡 I enjoy solving real-world problems using code and transforming ideas into reality through responsive and dynamic web applications.
+- ⚛️ My favorite library to work with is **React.js** – I love how flexible and component-based it is. Ask me anything about it!
+- 🔄 Constantly exploring new tools, libraries, and frameworks to stay updated with industry trends.
+- 🛠️ I also enjoy working on personal projects, contributing to open-source, and collaborating with other developers.
+- ✍️ In my free time, I write code, learn something new, and sometimes help my friends with what I’ve learned.
+- 📍 Based in Jaipur, Rajasthan – blending traditional culture with modern code!
+- 📫 Want to connect? Feel free to reach out to me at: <a href="mailto:opdsbanasya@gmail.com">opdsbanasya@gmail.com</a> 
+
+---
+
+<p align="center">
+  <em>"Code is not just a profession for me – it's a passion and a way to make an impact."</em>
+</p>
 
 <h3 align="left">Tech & Tools</h3>
 <div align="left">
