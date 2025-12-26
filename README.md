@@ -98,9 +98,3 @@
 <a href="mailto:opdsbanasya@gmail.com" target="_black"> 
   <img src="https://www.svgrepo.com/show/452213/gmail.svg" height="40" alt="youtube logo" style="object-fit:cover" /> 
 </a>
-
----
-
-<div align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opdsbanasya&layout=compact&theme=dracula" height="150"/>
-</div>
